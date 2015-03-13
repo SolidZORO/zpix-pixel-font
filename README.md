@@ -1,10 +1,6 @@
 
 ![zpix review](./assets/img/logo_zpix.png)
 
-
-Zpix 最像素 字體資訊
-========
-
 ![zpix review](./assets/img/Zpix_1.0_review.gif)
 
 字體資訊
