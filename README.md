@@ -73,7 +73,7 @@ BDF 字體檔 Zpix.bdf ×1
 下載
 --------
 
-[Zpix_1.0.ttf](./dist/Zpix_1.0.ttf)
+[Zpix_1.0.ttf](https://github.com/SolidZORO/zpix-pixel-font/raw/master/dist/Zpix_1.0.ttf)
 
 此下載到的版本僅可用於「學術研究/教育、非營利性授權」與「個人用戶授權」所規定之用途。
 
