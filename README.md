@@ -1,5 +1,5 @@
 
-![zpix review](./assets/img/logo_zpix.png)
+![zpix review](./assets/img/logo_zpix_pix.gif)
 
 ![zpix review](./assets/img/Zpix_1.0_review.gif)
 
