@@ -11,7 +11,7 @@ Font Info
 
 * Name: Zpix
 * Size: 12px (11px + 1px padding)
-* Char Total: 20901 (English + Chinese + Japanese)
+* Char Total: 20901 (English + Chinese(Simplified) + Chinese(Traditional) + Japanese)
 
 
 Get
@@ -26,8 +26,8 @@ Get
 Buy
 ========
 
-* for Business Product (More than One)　`USD $1000`
-* for Business Product (Single)　`USD $600`
+* for Commercial Product (Multiple Project)　`USD $1000`
+* for Commercial Product (Single Project)　`USD $600`
 * for Education Project `FREE`
 * for Personal Project　`FREE`
 
@@ -56,14 +56,13 @@ Buy
 
 * 名稱：最像素
 * 字號：12px （11px + 1px間距）
-* 字數：20901個 (英文＋中文＋日文版)
+* 字數：20901個 （英文＋繁體中文＋簡體中文＋日文）
 
 
 
 
 獲取
 ========
-
 
 * [下载 Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
 * [下载 Zpix_1.0.bdf (BDF)](./src/Zpix_1.0.bdf)
