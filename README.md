@@ -26,8 +26,8 @@ Get
 Buy
 ========
 
-* for Commercial Product (Multiple Project)　`USD $1000`
-* for Commercial Product (Single Project)　`USD $600`
+* for Commercial Product (Multiple Project)　`USD $900`
+* for Commercial Product (Single Project)　`USD $500`
 * for Education Project `FREE`
 * for Personal Project　`FREE`
 
