@@ -1,29 +1,8 @@
-
-<p style="
-    width: 180px;
-    height: 74px;
-    display: block;
-    text-indent: -9999em;
-    background-size: 180px 74px;
-    background-image: url('./assets/img/logo_zpix_pix@2x.gif');
-">
-zpix review
+<p>
+<img src="./assets/img/logo_zpix_pix@2x.gif" width="180" height="74" >
+<br>
+<img src="./assets/img/Zpix_1.0_review@2x.gif" width="700" height="500" >
 </p>
-
-<p style="
-    width: 700px;
-    height: 500px;
-    display: block;
-    text-indent: -9999em;
-    background-size: 700px 500px;
-    background-image: url('./assets/img/Zpix_1.0_review@2x.gif');
-">
-zpix review
-</p>
-
-
-
-
 
 字體資訊 Font Info
 --------
