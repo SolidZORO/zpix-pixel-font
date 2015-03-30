@@ -17,14 +17,6 @@ Font Info
 Sale Info
 ========
 
-* [Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
-* [Zpix_1.0.bdf (BDF](./src/Zpix_1.0.bdf)
-
-
-
-License
-========
-
 * Business Product M (More than One)　`USD $800`
 * Business Product S (Single)　`USD $500`
 * Education Product `FREE`
@@ -41,7 +33,9 @@ Get Zpix Font
 
 Font will be sent by e-mail or download. Buy and details specific ways, please contact SolidZORO(ＡＴ)live.com.
 
-[Zpix_1.0.ttf](https://github.com/SolidZORO/zpix-pixel-font/raw/master/dist/Zpix_1.0.ttf)
+
+* [Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
+* [Zpix_1.0.bdf (BDF)](./src/Zpix_1.0.bdf)
 
 > PS: Download version can only be used for education and individual projects.
 
@@ -62,13 +56,6 @@ Font will be sent by e-mail or download. Buy and details specific ways, please c
 * 名稱：最像素
 * 字號：12px （11px + 1px間距）
 * 字數：20901個 (英文＋中文＋日文版)
-
-
-銷售資訊
-========
-
-* [Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
-* [Zpix_1.0.bdf (BDF](./src/Zpix_1.0.bdf)
 
 
 
@@ -92,9 +79,9 @@ Font will be sent by e-mail or download. Buy and details specific ways, please c
 
 字體會以電子郵件或下載方式送出。購買方式具體方式及細節請聯繫 SolidZORO(ＡＴ)live.com 。
 
-[Zpix_1.0.ttf](https://github.com/SolidZORO/zpix-pixel-font/raw/master/dist/Zpix_1.0.ttf)
+* [Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
+* [Zpix_1.0.bdf (BDF](./src/Zpix_1.0.bdf)
 
-注：下載版只能用於「教育項目」與「個人項目」。
 
 
 版權聲明
