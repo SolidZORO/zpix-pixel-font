@@ -31,7 +31,7 @@ Buy
 * for Education Project `FREE`
 * for Personal Project　`FREE`
 
-**My Paypal: `solidzoro(ＡＴ)live.com`**
+**My Paypal: `solidzoro(-AT-)live.com`**
 
 > Because spurt in recent purchase, and the font is my work a few years ago, and I will no longer continue to work in the font of So for people who buy the font, I don't have the ability to offer any form of invoice, can't give you any form of written agreement, please understanding.
 
@@ -79,7 +79,7 @@ Buy
 * 用於教育項目　`免費`
 * 用於個人項目　`免費`
 
-**我的支付寶： `solidzoro@live.com`**
+**我的支付寶： `solidzoro(-AT-)live.com`**
 
 > 由於近期購買人數突增，且該字體已是我幾年前的作品，另外我也不再繼續從事字體方面的工作。所以對於購買字體的人，我沒有能力開出任何形式的發票，也不能給你們任何形式書面上的協議，請諒解。
 點擊上面鏈接即可進行購買，如需選擇商業單項目使用，可以購買後讓我改價格。我會在看到支付信息後主動與你聯繫，並把字體源文件Email給你。
