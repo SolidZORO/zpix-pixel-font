@@ -23,8 +23,8 @@ Font Info
 Download
 ========
 
-* [Download Zpix_1.1_outline.ttf (TureType)](./dist/Zpix_1.1_outline.ttf)
-* [Download Zpix_1.1.bdf (BDF)](./src/Zpix_1.1.bdf)
+* [Download Zpix_1.1_outline.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/Zpix_1.1_outline.ttf)
+* [Download Zpix_1.1.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/src/Zpix_1.1.bdf)
 
 > If you have any questions you can write me a email. `solidzoro(ＡＴ)live.com` .
 
@@ -75,8 +75,9 @@ Buy
 獲取
 ========
 
-* [下载 Zpix_1.1_outline.ttf (TureType)](./dist/Zpix_1.1_outline.ttf)
-* [下载 Zpix_1.1.bdf (BDF)](./src/Zpix_1.1.bdf)
+* [下载 Zpix_1.1_outline.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/Zpix_1.1_outline.ttf)
+* [下载 Zpix_1.1.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/src/Zpix_1.1.bdf)
+
 
 如有疑問可以聯繫 `SolidZORO(ＡＴ)live.com` 。
 
