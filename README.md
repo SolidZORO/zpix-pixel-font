@@ -4,32 +4,38 @@
 <img src="./assets/img/Zpix_1.0_review@2x.gif" width="700" height="500" >
 </p>
 
+Update Log
+========
 
+**2016-04-06**
+* add outline base on pixel!!! (can be used in any font size now, but it is best to multiples of 12)
+* add some full-width characters
+* fix some bug
 
 Font Info
 ========
 
 * Name: Zpix
 * Size: 12px (11px + 1px padding)
-* Char Total: 20901 (English + Chinese(Simplified) + Chinese(Traditional) + Japanese)
+* Char Total: 21998 (English + Chinese(Simplified) + Chinese(Traditional) + Japanese)
 
 
-Get
+Download
 ========
 
-* [Download Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
-* [Download Zpix_1.0.bdf (BDF)](./src/Zpix_1.0.bdf)
+* [Download Zpix_1.1_outline.ttf (TureType)](./dist/Zpix_1.1_outline.ttf)
+* [Download Zpix_1.1.bdf (BDF)](./src/Zpix_1.1.bdf)
 
-> Download version can only be used for education and individual projects. If you have any questions you can write me a email. `solidzoro(ＡＴ)live.com` .
+> If you have any questions you can write me a email. `solidzoro(ＡＴ)live.com` .
 
 
 Buy
 ========
 
-* for Commercial Product (Multiple Project)　`USD $900`
-* for Commercial Product (Single Project)　`USD $500`
+* for Commercial Product (Multiple Project) `USD $900`
+* for Commercial Product (Single Project) `USD $500`
 * for Education Project `FREE`
-* for Personal Project　`FREE`
+* for Personal Project `FREE`
 
 **My Paypal: `solidzoro(-AT-)live.com`**
 
@@ -41,14 +47,19 @@ Buy
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 
 
+
+
+更新日誌
+========
+
+**2016-04-06**
+* 添加 生成了一套與像素字體一樣的矢量輪廓！（現在可以在任何字體大小下使用了，不過最好是 12 的倍數）
+* 添加 一些等寬字體
+* 修復 一些 bug
 
 
 字體資訊
@@ -56,7 +67,7 @@ Buy
 
 * 名稱：最像素
 * 字號：12px （11px + 1px間距）
-* 字數：20901個 （英文＋繁體中文＋簡體中文＋日文）
+* 字數：21998個 （英文＋繁體中文＋簡體中文＋日文）
 
 
 
@@ -64,20 +75,20 @@ Buy
 獲取
 ========
 
-* [下载 Zpix_1.0.ttf (TureType)](./dist/Zpix_1.0.ttf)
-* [下载 Zpix_1.0.bdf (BDF)](./src/Zpix_1.0.bdf)
+* [下载 Zpix_1.1_outline.ttf (TureType)](./dist/Zpix_1.1_outline.ttf)
+* [下载 Zpix_1.1.bdf (BDF)](./src/Zpix_1.1.bdf)
 
-字體會以電子郵件或下載方式送出，如有疑問可以聯繫 `SolidZORO(ＡＴ)live.com` 。
+如有疑問可以聯繫 `SolidZORO(ＡＴ)live.com` 。
 
 
 
 購買
 ========
 
-* 用於商業產品（一個產品以上）　`RMB ￥3000`
-* 用於商業產品 （單產品）　`RMB ￥2000`
-* 用於教育項目　`免費`
-* 用於個人項目　`免費`
+* 用於商業產品（一個產品以上） `RMB ￥3000`
+* 用於商業產品 （單產品） `RMB ￥2000`
+* 用於教育項目 `免費`
+* 用於個人項目 `免費`
 
 **我的支付寶： `solidzoro(-AT-)live.com`**
 
