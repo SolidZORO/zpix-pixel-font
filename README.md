@@ -1,7 +1,7 @@
 <p>
-<img src="./assets/img/logo_zpix_pix@2x.gif" width="180" height="74" >
+<img src="./assets/img/logo_zpix_pix@2x.gif" width="180" >
 <br>
-<img src="./assets/img/Zpix_1.0_review@2x.gif" width="700" height="500" >
+<img src="./assets/img/Zpix_1.0_review@2x.gif" width="700" >
 </p>
 
 Update Log
