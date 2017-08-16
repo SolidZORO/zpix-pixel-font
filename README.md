@@ -15,10 +15,9 @@ update log
 font info
 ========
 
-* Name: Zpix / 最像素
+* Name: Zpix (最像素)
 * Size: 12px (11px + 1px padding)
-* Char Total: 21998 (English + Chinese(Simplified) + Chinese(Traditional) + Japanese)
-
+* Char Total: 21998 (English / Traditional Chinese / Simplified Chinese / Japanese)
 
 download
 ========
