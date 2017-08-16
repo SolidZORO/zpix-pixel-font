@@ -32,10 +32,10 @@ download
 purchase
 ========
 
-* for Commercial/Business Product (Multiple Project) **`email me: solidzoro@live.com`**
-* for Commercial/Business Product (Single Project) **`USD $800`**
-* for Education Project **`FREE`**
-* for Personal Project **`FREE`**
+* for Commercial/Business Product (Multiple Product) **`Email Me`**
+* for Commercial/Business Product (Single Product) **`USD $800`**
+* for Education Product **`FREE`**
+* for Personal Product **`FREE`**
 
 **My Paypal: `solidzoro@live.com`**
 
