@@ -4,22 +4,16 @@
 <img src="./assets/img/Zpix_1.0_review@2x.gif?v=20180214" width="700" >
 </p>
 
-update log
-========
 
-**2016-04-06**
-* add outline base on pixel! (can be used in any font size now, but it is best to multiples of 12)
-* add some full-width characters
-* fix some bug
-
-font info
+Font Info
 ========
 
 * Name: Zpix (最像素)
 * Size: 12px (11px + 1px padding)
 * Char Total: 21998 (English / Traditional Chinese / Simplified Chinese / Japanese)
 
-download
+
+Download
 ========
 
 * [Download Zpix.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/Zpix.ttf)
@@ -28,17 +22,26 @@ download
 > If you have any questions you can write me a email. `solidzoro@live.com` .
 
 
-purchase
+License and Pricing
 ========
 
-* for Commercial/Business Product (Multiple Product) **Each addition one needs `USD $300`**
-* for Commercial/Business Product (Single Product) **`USD $800`**
+* for Single Business Product **`USD $800`**
+* for Multiple Business Product **base `USD $800`, and per product `+$300`**
 * for Education Product **`FREE`**
 * for Personal Product **`FREE`**
 
 **My Paypal: `solidzoro@live.com`**
 
 > I don't have the ability to offer any form of invoice, can't give you any form of written agreement, please understanding.
+
+
+update log
+========
+
+**2016-04-06**
+* add outline base on pixel! (can be used in any font size now, but it is best to multiples of 12)
+* add some full-width characters
+* fix some bug
 
 
 
@@ -68,18 +71,17 @@ purchase
 
 
 
-购买
+授权与价格
 ========
 
-* 用于 多个商业产品 - 每追加一个商业产品需多加 **`RMB ￥2000`**
-* 用于 单个商业产品 - **`RMB ￥5000`**
+* 用于 单个商业产品 - **`RMB 5000`**
+* 用于 多个商业产品 - **基础价格 `RMB 5000`，每追加一个产品 `+RMB 2000`**
 * 用于 教育项目 - **`免费`**
 * 用于 个人项目 - **`免费`**
 
 **我的支付宝： `solidzoro@live.com`**
 
 > BTW：字体付费后，无法开票，也不签署书面协议，请谅解。
-
 
 
 
