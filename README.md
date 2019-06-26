@@ -1,8 +1,12 @@
 <p>
-<img src="./assets/images/zpix_logo@2x.png?v=20190626" width="250" />
-<br />
-<img src="./assets/images/zpix_review@2x.png?v=20190626" width="800" />
+  <img src="./assets/images/zpix_logo@2x.png?v=20190626" width="250" />
+  <br>
+  <img src="./assets/images/zpix_review@2x.png?v=20190626" width="800" />
 </p>
+
+
+[Zpix Font Sample](https://SolidZORO.github.io/zpix-pixel-font)
+<br>
 
 
 Font Info
