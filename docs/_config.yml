@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+
+algolia:
+  index_name: index.html
