@@ -2,6 +2,10 @@
   <img src="./assets/images/zpix_logo@2x.png?v=20190626" width="250" />
   <br>
   <img src="./assets/images/zpix_review@2x.png?v=20190626" width="800" />
+  <br>
+  <br>
+   <a href="https://SolidZORO.github.io/zpix-pixel-font" target="_blank">Zpix Font Sample</a>
+  <br>
 </p>
 
 
