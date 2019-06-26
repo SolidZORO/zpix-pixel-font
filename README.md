@@ -8,11 +8,6 @@
   <br>
 </p>
 
-
-[Zpix Font Sample](https://SolidZORO.github.io/zpix-pixel-font)
-<br>
-
-
 Font Info
 ========
 
