@@ -1,7 +1,7 @@
 <p>
-<img src="./assets/img/logo_zpix_pix@2x.gif?v=20180214" width="180" >
-<br>
-<img src="./assets/img/Zpix_1.0_review@2x.gif?v=20180214" width="700" >
+<img src="./assets/images/zpix_logo@2x.png?v=20190626" width="250" />
+<br />
+<img src="./assets/images/zpix_review@2x.png?v=20190626" width="800" />
 </p>
 
 
@@ -25,14 +25,14 @@ Download
 License and Pricing
 ========
 
-* for Single Business Product **`USD $800`**
-* for Multiple Business Product **base `USD $800`, and per product `+$300`**
+* for Commercial/Business Product (Single Product) **`USD $1000`**
+* for Commercial/Business Product (Multiple Product) **Contact me `solidzoro@live.com`**
 * for Education Product **`FREE`**
 * for Personal Product **`FREE`**
 
 **My Paypal: `solidzoro@live.com`**
 
-> I don't have the ability to offer any form of invoice, can't give you any form of written agreement, please understanding.
+> after paying for the font, I will give a license agreement. However, please do not issue an invoice, please understand.
 
 
 update log
@@ -74,14 +74,14 @@ update log
 授权与价格
 ========
 
-* 用于 单个商业产品 - **`RMB 5000`**
-* 用于 多个商业产品 - **基础价格 `RMB 5000`，每追加一个产品 `+RMB 2000`**
+* 用于 单个商业产品 - **`RMB ￥7000`**
+* 用于 多个商业产品 -  **联系我 `solidzoro@live.com`**
 * 用于 教育项目 - **`免费`**
 * 用于 个人项目 - **`免费`**
 
 **我的支付宝： `solidzoro@live.com`**
 
-> BTW：字体付费后，无法开票，也不签署书面协议，请谅解。
+> BTW：字体付费后，我会给一份授权协议。但无法开具发票，请谅解。
 
 
 
