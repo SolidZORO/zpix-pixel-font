@@ -1,0 +1,60 @@
+@font-face {
+  font-family: ZpixReview;
+  src: url(./zpix.woff2);
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 800;
+  -webkit-font-smoothing: none;
+}
+
+.review-wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+  .review-wrapper {
+    width: 800px;
+  }
+}
+
+.review-wrapper,
+.show-characters,
+.input-characters {
+  color: #111;
+  font-size: 24px;
+  line-height: 1.6;
+  font-family: ZpixReview, sans-serif;
+  -webkit-font-smoothing: none;
+  font-feature-settings: 'tnum';
+}
+
+.input-characters {
+  padding: 10px;
+  margin: 10px 0 20px 0;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.show-part {
+  margin-bottom: 50px;
+}
+
+.footer {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+.footer a:hover {
+  transition: all 0.3s;
+  color: #111;
+}
