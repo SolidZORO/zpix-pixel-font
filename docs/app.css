@@ -4,8 +4,19 @@
 }
 
 .title {
+  margin: 0;
+  padding: 0;
   font-size: 48px;
   font-weight: 800;
+  -webkit-font-smoothing: none;
+}
+
+.tips {
+  color: #999;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 400;
   -webkit-font-smoothing: none;
 }
 
@@ -33,7 +44,7 @@
 
 .input-characters {
   padding: 10px;
-  margin: 10px 0 20px 0;
+  margin: 20px 0;
   width: 100%;
   border: 1px solid #ccc;
   border-radius: 4px;
