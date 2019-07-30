@@ -16,7 +16,24 @@
         <h2 class="tips">(please wait font loaded and displayed.)</h2>
         <textarea aria-label="" rows="5" class="input-characters">* input font sample...</textarea>
 
-        <div class="show-characters">
+        <div id="show-loading" class="show-loading">
+          <div class="loading-sharp">
+            <div class="lds-ring">
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+
+            <span>Loading...</span>
+          </div>
+
+          <div class="loading-tips">
+            about 30 seconds
+          </div>
+        </div>
+
+        <div id="show-characters" class="show-characters hide">
           <div class="row">
             <h3>CHS</h3>
             <div class="show-part">
@@ -50,5 +67,7 @@
         </div>
       </div>
     </div>
+
+    <script src="app.js"></script>
   </body>
 </html>
