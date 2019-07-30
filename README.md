@@ -1,8 +1,15 @@
 <p>
-<img src="./assets/images/zpix_logo@2x.png?v=20190626" width="250" />
-<br />
-<img src="./assets/images/zpix_review@2x.png?v=20190626" width="800" />
+  <img src="./assets/images/zpix_logo@2x.png?v=20190626" width="250" />
+  <br>
+  <img src="./assets/images/zpix_review@2x.png?v=20190626" width="800" />
+  <br>
+  <br>
+   <a href="https://SolidZORO.github.io/zpix-pixel-font" target="_blank">Zpix Font Sample</a>
+  <br>
 </p>
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-25110926-4/github-zpix-pixel-font?pixel)](https://github.com/igrigorik/ga-beacon)
 
 
 Font Info
@@ -92,8 +99,6 @@ update log
 [最像素] 为 SolidZORO 具有完全自主智慧财产权的产品，受《中华人民共和国著作权法》、《电脑软体保护条例》和其它智慧财产权法律法规及国际公约、条约的保护。若非获得
 SolidZORO 的明确许可，不可在所授权限以外范围使用本产品。 同时禁止对本字形档软体进行修改、反编译、转换、拆分等反向操作，及非法传播、出售、出租或以其它方式从中牟利。SolidZORO
 对上述行为者保留起诉权利。
-
-
 
 
 
