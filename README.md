@@ -20,6 +20,7 @@
 
 - [Download Zpix.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/Zpix.ttf)
 - [Download Zpix.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/src/Zpix.bdf)
+- [Download Zpix Beta Version](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v3.0.1)
 
 > If you have any questions you can write me a email. `solidzoro@live.com` .
 
@@ -58,6 +59,7 @@
 
 - [下载 Zpix.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/Zpix.ttf)
 - [下载 Zpix.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/src/Zpix.bdf)
+- [下载 Zpix Beta 版本](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v3.0.1)
 
 如有疑问可以联系 `SolidZORO@live.com`
 
