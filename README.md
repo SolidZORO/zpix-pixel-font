@@ -37,7 +37,7 @@
 
 # Change log
 
-see [CHANGELOG](./CHANGFELOG.md)
+see [CHANGELOG](./CHANGELOG.md)
 
 
 <br>
@@ -81,7 +81,9 @@ see [CHANGELOG](./CHANGFELOG.md)
 
 # 更新日志
 
-查看 [CHANGELOG](./CHANGFELOG.md)
+查看 [CHANGELOG](./CHANGELOG.md)
+
+
 
 # 版权声明
 
