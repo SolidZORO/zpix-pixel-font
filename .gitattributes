@@ -26,3 +26,4 @@
 *.xml   text eol=lf
 dist filter=lfs diff=lfs merge=lfs -text
 docs/zpix.woff2 filter=lfs diff=lfs merge=lfs -text
+website/zpix.woff2 filter=lfs diff=lfs merge=lfs -text
