@@ -1,6 +1,6 @@
 @font-face {
   font-family: ZpixReview;
-  src: url(../dist/zpix.ttf);
+  src: url(./zpix.woff2?v2020-2);
 }
 
 .hide {
@@ -15,7 +15,7 @@
   margin: 0;
   padding: 0;
   font-size: 36px;
-  font-weight: 800;
+  font-weight: 400;
   -webkit-font-smoothing: none;
 }
 
