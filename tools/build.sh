@@ -8,7 +8,7 @@ java -jar ./bin/BitsNPicas.jar convertbitmap -f ttf -o ./zpix.ttf ../src/zpix.sf
 # minify has a bug for web, OTS parsing error: OS/2: Failed to parse table
 # so I'm going to convert woff2 here
 # `ttf2woff2` is a npm module, RUN `npm i -g ttf2woff2` install
-cat < ./zpix.ttf | ttf2woff2 > ../docs/zpix.woff2
+cat < ./zpix.ttf | ttf2woff2 > ../website/zpix.woff2
 
 ./minify.py
 mv -f ./zpix.ttf ../dist/zpix.ttf

@@ -1,0 +1,6 @@
+{
+  "name": "zpix",
+  "version": 2,
+  "env": { "NODE_ENV": "production" },
+  "builds": [{ "src": "**", "use": "@now/static" }]
+}

@@ -4,7 +4,7 @@
   <img src="./docs/assets/images/zpix_review@2x.png?v=2020-2" width="800" />
   <br>
   <br>
-   📍<a href="https://SolidZORO.github.io/zpix-pixel-font" target="_blank">Online Review Zpix Sample</a>
+   📍<a href="https://zpix.vercel.app" target="_blank">Zpix Online Sample (vercel.app)</a>
   <br>
 </p>
 
