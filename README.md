@@ -37,7 +37,7 @@
 
 # Change log
 
-see [CHANGELOG]('./CHANGFELOG.md')
+see [CHANGELOG](./CHANGFELOG.md)
 
 
 <br>
@@ -58,6 +58,13 @@ see [CHANGELOG]('./CHANGFELOG.md')
 - [下载 Zpix.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.bdf)
 - [下载 Zpix Legacy 版本](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/legacy/zpix-legacy.ttf)
 
+
+- [下载 Zpix.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.ttf)
+- [下载 Zpix.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.bdf)
+- [下载 Zpix Legacy 版本](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/legacy/zpix-legacy.ttf)
+
+
+
 如有疑问可以联系 `SolidZORO@live.com`
 
 # 授权与价格
@@ -74,7 +81,7 @@ see [CHANGELOG]('./CHANGFELOG.md')
 
 # 更新日志
 
-查看 [CHANGELOG]('./CHANGFELOG.md')
+查看 [CHANGELOG](./CHANGFELOG.md)
 
 # 版权声明
 
