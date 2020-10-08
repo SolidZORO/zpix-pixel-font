@@ -1,0 +1,21 @@
+{
+  "name": "zpix-pixel-font",
+  "author": "solidzoro@live.com",
+  "version": "3.1.0",
+  "private": false,
+  "sideEffect": false,
+  "homepage": ".",
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6.4.0",
+    "yarn": ">=1.15"
+  },
+  "scripts": {
+    "versionup": "standard-version -r patch",
+    "versionup:minor": "standard-version -r minor",
+    "versionup:major": "standard-version -r major",
+    "versionup:init": "standard-version -f"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
