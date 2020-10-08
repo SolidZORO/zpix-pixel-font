@@ -13,11 +13,12 @@ print('------------')
 
 # AutoTrace all glyphs, add extrema and simplify.
 print('Processing...')
-baseFont.selection.all()
-baseFont.autoTrace()
-baseFont.addExtrema()
-baseFont.simplify()
+# baseFont.selection.all()
+# baseFont.autoTrace()
+# baseFont.addExtrema()
+# baseFont.simplify()
 baseFont.generate('zpix.ttf', 'ttf')
+baseFont.close()
 
 print(' ')
 print('🚀 Done!')
