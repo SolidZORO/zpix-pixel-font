@@ -1,7 +1,7 @@
 <p>
-  <img src="./docs/assets/images/zpix_logo@2x.png?v=2020-1" width="250" />
+  <img src="./docs/assets/images/zpix_logo@2x.png?v=2020-2" width="250" />
   <br>
-  <img src="./docs/assets/images/zpix_review@2x.png?v=2020-1" width="800" />
+  <img src="./docs/assets/images/zpix_review@2x.png?v=2020-2" width="800" />
   <br>
   <br>
    📍<a href="https://SolidZORO.github.io/zpix-pixel-font" target="_blank">Online Review Zpix Sample (Chrome only)</a>
@@ -35,13 +35,10 @@
 
 > after paying for the font, I will give a license agreement. However, please do not issue an invoice, please understand.
 
-# update log
+# Change log
 
-**2016-04-06**
+see [CHANGELOG]('./CHANGFELOG.md')
 
-- add outline base on pixel! (can be used in any font size now, but it is best to multiples of 12)
-- add some full-width characters
-- fix some bug
 
 <br>
 <br>
@@ -73,6 +70,11 @@
 **我的支付宝： `solidzoro@live.com`**
 
 > BTW：字体付费后，我会给一份授权协议。但无法开具发票，请谅解。
+
+
+# 更新日志
+
+查看 [CHANGELOG]('./CHANGFELOG.md')
 
 # 版权声明
 

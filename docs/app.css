@@ -1,6 +1,6 @@
 @font-face {
   font-family: ZpixReview;
-  src: url(./zpix.woff2);
+  src: url(../dist/zpix.ttf);
 }
 
 .hide {
