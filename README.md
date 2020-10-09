@@ -16,9 +16,9 @@
 
 ## Download
 
-- [Download Zpix.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.ttf)
-- [Download Zpix.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.bdf)
-- [Download Zpix Legacy Version](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/legacy/zpix-legacy.ttf)
+- [Download Zpix.ttf (TureType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
+- [Download Zpix.bdf (BDF)](https://github.com/SolidZORO/zpix-pixel-font/releases)
+- [Download Zpix Legacy Version](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
 
 > If you have any questions you can write me a email. `solidzoro@live.com` .
 
@@ -50,9 +50,9 @@ see [CHANGELOG](./CHANGELOG.md)
 
 ## 获取
 
-- [下载 Zpix.ttf (TureType)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.ttf)
-- [下载 Zpix.bdf (BDF)](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/zpix.bdf)
-- [下载 Zpix Legacy 版本](https://raw.githubusercontent.com/SolidZORO/zpix-pixel-font/master/dist/legacy/zpix-legacy.ttf)
+- [下载 Zpix.ttf (TureType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
+- [下载 Zpix.bdf (BDF)](https://github.com/SolidZORO/zpix-pixel-font/releases)
+- [下载 Zpix Legacy 版本](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
 
 
 
