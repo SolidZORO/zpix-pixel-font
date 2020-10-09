@@ -1,6 +1,11 @@
 @font-face {
-  font-family: ZpixReview;
-  src: url(./zpix.woff2?v2020-2);
+  font-family: ZpixReviewLocal;
+  src: url(./zpix.woff2?zpix--local);
+}
+
+@font-face {
+  font-family: ZpixReviewOnline;
+  src: url(https://zpix.now.sh/zpix.woff2?zpix--online);
 }
 
 .hide {
@@ -45,7 +50,7 @@
   color: #111;
   font-size: 24px;
   line-height: 1.6;
-  font-family: ZpixReview, sans-serif;
+  font-family: ZpixReviewLocal, ZpixReviewOnline, sans-serif;
   -webkit-font-smoothing: none;
   font-feature-settings: 'tnum';
 }
