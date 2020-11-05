@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.2](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.1...v3.1.2) (2020-11-05)
+
+
+### Bug Fixes
+
+* adjust the position ：U+FF1A and ；U+FF1B ([5ee3907](https://github.com/SolidZORO/zpix-pixel-font/commit/5ee39074ac1a6450ab76eef22a5a502fb7f03b72)), closes [#27](https://github.com/SolidZORO/zpix-pixel-font/issues/27)
+
+
+### Refactor
+
+* remove local [@font-face](https://github.com/font-face), use woff2 from vercel host ([2c0a17a](https://github.com/SolidZORO/zpix-pixel-font/commit/2c0a17a41ec3aa91dd7cb5b0626c3d49916ea27f))
+* sample website use vercel.app deploy ([4d370ea](https://github.com/SolidZORO/zpix-pixel-font/commit/4d370ead51220d79b8b04a4a6d50036c1a19a608))
+
 ### [3.1.1](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.0...v3.1.1) (2020-10-08)
 
 
