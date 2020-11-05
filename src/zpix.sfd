@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1602156653
-ModificationTime: 1604591774
+ModificationTime: 1604593083
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,12 +51,12 @@ DisplaySize: 12
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 180
-WinInfo: 64531 47 22
+WinInfo: 94 47 22
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 9437184 0 436207 218103 145402 0 1048576 145402 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 22232
+BeginChars: 65536 22233
 
 StartChar: space
 Encoding: 32 32 0
@@ -155679,8 +155679,14 @@ Encoding: 65260 65260 22231
 Width: 1000
 LayerCount: 2
 EndChar
+
+StartChar: uniFEC3
+Encoding: 65219 65219 22232
+Width: 1000
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 12 22232 10 2 1 FontForge
+BitmapFont: 12 22233 10 2 1 FontForge
 BDFStartProperties: 35
 FONT 1 "Zpix"
 COMMENT 0 "https://github.com/SolidZORO/zpix-pixel-font"
@@ -199800,15 +199806,15 @@ BDFChar: 22039 65102 13 1 11 -2 -2
 p##fM
 BDFChar: 22040 65103 13 1 11 -2 -1
 Amh$W
-BDFChar: 22041 65104 13 1 2 -2 1
+BDFChar: 22041 65104 12 2 3 -2 1
 ^q`3c
 BDFChar: 22042 65105 13 1 3 -2 1
 J3[Kb
 BDFChar: 22043 65106 13 -15 3 -5 1
 !!$C,!+5d,zz!!%NLz
-BDFChar: 22044 65108 12 1 3 -3 4
-?sitB?m%^b
-BDFChar: 22045 65109 12 1 2 -1 4
+BDFChar: 22044 65108 12 2 3 -3 4
+^q]pM^q`3c
+BDFChar: 22045 65109 12 2 3 -1 4
 ^q]pM^q]pM
 BDFChar: 22046 65110 13 1 5 -2 6
 Du]k<!/LUTz
@@ -199872,12 +199878,12 @@ BDFChar: 22075 65290 13 2 8 0 6
 P#OCP3)l%@
 BDFChar: 22076 65291 13 2 8 0 6
 &.fEP&.fBQ
-BDFChar: 22077 65292 12 1 2 -2 1
+BDFChar: 22077 65292 12 2 3 -2 1
 ^q`3c
 BDFChar: 22078 65293 13 2 8 3 3
 rVuou
-BDFChar: 22079 65294 12 1 2 -1 0
-^q]pM
+BDFChar: 22079 65294 12 4 5 0 1
+^];.M
 BDFChar: 22080 65295 13 0 10 -2 8
 !$D8,!.Y(M!WW?'#QPD9+94Y,J,fQL
 BDFChar: 22081 65296 13 2 8 -1 7
@@ -199900,10 +199906,10 @@ BDFChar: 22089 65304 13 2 8 -1 7
 I"Hs%I"Hs%HiO-H
 BDFChar: 22090 65305 13 2 8 -1 7
 G_C[#L3`oSGQ7^D
-BDFChar: 22091 65306 12 1 2 -1 4
+BDFChar: 22091 65306 12 2 3 -1 4
 ^q]pM^q]pM
-BDFChar: 22092 65307 12 1 3 -3 4
-?sitB?m%^b
+BDFChar: 22092 65307 12 2 3 -3 4
+^q]pM^q`3c
 BDFChar: 22093 65308 13 1 8 0 6
 !t6m!0FS$`
 BDFChar: 22094 65309 13 1 9 2 5
@@ -200181,6 +200187,8 @@ KHPpj6pUe18jNF7.Y'7(&HDe2
 BDFChar: 22230 65259 12 0 0 0 0
 z
 BDFChar: 22231 65260 12 0 0 0 0
+z
+BDFChar: 22232 65219 12 0 0 0 0
 z
 EndBitmapFont
 EndSplineFont
