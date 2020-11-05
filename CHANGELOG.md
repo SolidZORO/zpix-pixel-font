@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.3](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.2...v3.1.3) (2020-11-05)
+
+
+### Refactor
+
+* adjust chinese punctuation ([9a7e02c](https://github.com/SolidZORO/zpix-pixel-font/commit/9a7e02c5d814e47edf5ba39586556cfaf1fb991b))
+
 ### [3.1.2](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.1...v3.1.2) (2020-11-05)
 
 
