@@ -51,7 +51,7 @@ DisplaySize: 12
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 180
-WinInfo: 94 47 22
+WinInfo: 27589 47 22
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -155686,7 +155686,7 @@ Width: 1000
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 12 22233 10 2 1 FontForge
+BitmapFont: 12 22234 10 2 1 FontForge
 BDFStartProperties: 35
 FONT 1 "Zpix"
 COMMENT 0 "https://github.com/SolidZORO/zpix-pixel-font"
@@ -173601,7 +173601,7 @@ JcJ+;5N%EL8q78!$@l#>;F"\6JcGcN
 BDFChar: 8937 27793 13 0 10 -2 8
 T>3i["@.W*6pMjP#XCpG83htr^Yf(l
 BDFChar: 8938 27794 13 0 10 -2 8
-O2+:O#XFbb5QDna&0OM/7"@W)SDXAI
+O5NPO#U#Mm5QDna&0OM/7"@W)SDXAI
 BDFChar: 8939 27795 13 0 10 -2 8
 "9A*;'gO$pb[:DNs58DMs58DMs53kW
 BDFChar: 8940 27796 13 0 10 -2 8
@@ -197447,7 +197447,7 @@ GecZHpg@$Nl@;l":-_ZAJ&"UJmU-"p
 BDFChar: 20860 39716 13 0 10 -2 8
 Hsf6jr*W*Hs55AWJ%uWrs54JS4Q$2>
 BDFChar: 20861 39717 13 0 10 -2 8
-]:b9/]:b9/]:b$(^S$H,^S$*"O^J.h
+]:b9/]:b9/]:aZsJ09@bJ09@bJD^D-
 BDFChar: 20862 39718 13 0 10 -2 8
 ]:b9/]:b9/]:b<0MBJW9PG#W4Jm\QY
 BDFChar: 20863 39719 13 0 10 -2 8
@@ -199883,7 +199883,7 @@ BDFChar: 22077 65292 12 2 3 -2 1
 BDFChar: 22078 65293 13 2 8 3 3
 rVuou
 BDFChar: 22079 65294 12 4 5 0 1
-^];.M
+^]4?7
 BDFChar: 22080 65295 13 0 10 -2 8
 !$D8,!.Y(M!WW?'#QPD9+94Y,J,fQL
 BDFChar: 22081 65296 13 2 8 -1 7
