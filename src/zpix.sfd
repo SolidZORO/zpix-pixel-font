@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1602156653
-ModificationTime: 1615894305
+ModificationTime: 1616297339
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,12 +51,12 @@ DisplaySize: 12
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 180
-WinInfo: 34827 47 22
+WinInfo: 28200 47 22
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 9437184 0 436207 218103 145402 0 1048576 145402 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 22233
+BeginChars: 65536 22234
 
 StartChar: space
 Encoding: 32 32 0
@@ -155685,8 +155685,15 @@ Encoding: 65219 65219 22232
 Width: 1000
 LayerCount: 2
 EndChar
+
+StartChar: uni000A
+Encoding: 10 10 22233
+Width: 1000
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 12 22234 10 2 1 FontForge
+BitmapFont: 12 22235 10 2 1 FontForge
 BDFStartProperties: 35
 FONT 1 "Zpix"
 COMMENT 0 "https://github.com/SolidZORO/zpix-pixel-font"
@@ -174799,7 +174806,7 @@ OFTlP52_\k@mC&[,=#4Y8:ZsjOrs`)
 BDFChar: 9536 28392 13 0 10 -2 8
 JcK09&0R%L8,s19#_5Hr?f4>&Qs]mo
 BDFChar: 9537 28393 13 0 10 -2 8
->sLj:LHtMt<T$kBM*U=`'gOWAe_gE-
+SNoX%(I46N<T"<O8O,l*<BsPLQ/DWB
 BDFChar: 9538 28394 13 0 10 -2 8
 ^#2;/);p>oIio,l$(sk_8:ZO^RNMS1
 BDFChar: 9539 28395 13 0 10 -2 8
@@ -200189,6 +200196,8 @@ z
 BDFChar: 22231 65260 12 0 0 0 0
 z
 BDFChar: 22232 65219 12 0 0 0 0
+z
+BDFChar: 22233 10 5 13 13 -3 -3
 z
 EndBitmapFont
 EndSplineFont

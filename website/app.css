@@ -1,11 +1,11 @@
 @font-face {
   font-family: ZpixReviewLocal;
-  src: url(./zpix.woff2?zpix--local);
+  src: url(./zpix.woff2?v2021-03-21);
 }
 
 @font-face {
   font-family: ZpixReviewOnline;
-  src: url(https://zpix.now.sh/zpix.woff2?zpix--online);
+  src: url(https://zpix.now.sh/zpix.woff2?v2021-03-21);
 }
 
 .hide {
@@ -63,8 +63,13 @@
   border-radius: 4px;
 }
 
+.row h3 {
+  font-size: 36px;
+}
+
 .show-part {
   margin-bottom: 50px;
+  font-size: 24px;
 }
 
 .footer {
@@ -76,7 +81,7 @@
 .footer a {
   text-decoration: none;
   color: #ccc;
-  font-size: 90%;
+  font-size: 12px;
 }
 
 .footer a:hover {
