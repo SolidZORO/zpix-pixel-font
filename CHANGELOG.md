@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.6](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.5...v3.1.6) (2021-04-19)
+
+
+### Bug Fixes
+
+* fixed 径 (U+5F84) ([40cc7d5](https://github.com/SolidZORO/zpix-pixel-font/commit/40cc7d5366d1309a933a0b14b0b82c11146d3c02)), closes [#36](https://github.com/SolidZORO/zpix-pixel-font/issues/36)
+* fixed 滩 (U+6EE9) ([191ee17](https://github.com/SolidZORO/zpix-pixel-font/commit/191ee17f30a590da4e374e047a93dbe01272e001)), closes [#35](https://github.com/SolidZORO/zpix-pixel-font/issues/35)
+
 ### [3.1.5](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.4...v3.1.5) (2021-03-16)
 
 
