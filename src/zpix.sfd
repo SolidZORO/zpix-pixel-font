@@ -4,7 +4,7 @@ FullName: Zpix
 FamilyName: Zpix
 Weight: Regular
 Copyright: https://github.com/SolidZORO/zpix-pixel-font
-Version: v3.1.0
+Version: v3.1.7
 ItalicAngle: 0
 UnderlinePosition: 1
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1602156653
-ModificationTime: 1616297339
+ModificationTime: 1624949804
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ DisplaySize: 12
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 180
-WinInfo: 23829 47 22
+WinInfo: 25991 47 22
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -163670,7 +163670,7 @@ BDFChar: 3967 22823 13 0 10 -2 8
 BDFChar: 3968 22824 13 0 10 -2 8
 &-*gQ+96ch6i[>is54"[$32f2^gI-B
 BDFChar: 3969 22825 13 0 10 -2 8
-s54"["98Q)J%u0e$31D5&HEr(^gI-B
+s54"["98Q)s54"[$31D5&HEr(^gI-B
 BDFChar: 3970 22826 13 0 10 -2 8
 "98Q)s54"[$31D5&HECC,_/3HJ04gl
 BDFChar: 3971 22827 13 0 10 -2 8
@@ -170102,7 +170102,7 @@ J0:](aT/.;al*+_V*N-fV*N0gr]gG`
 BDFChar: 7184 26040 13 0 10 -2 8
 rZHg.rd^)\rnsfLrh-!YqOjl3p)j>8
 BDFChar: 7185 26041 13 0 10 -2 8
-"98Q)s54Fg&-*7A+2AFQ+@%&76bi[%
+"98Q)s54Fg&-*ff&3pdl+@%&76bi[%
 BDFChar: 7186 26042 13 0 10 -2 8
 5l`'YqERFk5QH'p8O,j48jJ8!Zp4Tk
 BDFChar: 7187 26043 13 0 10 -2 8
