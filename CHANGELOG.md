@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.7](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.6...v3.1.7) (2021-06-29)
+
+
+### Refactor
+
+* 天(U+5929), 方(U+65b9) ([7c9a696](https://github.com/SolidZORO/zpix-pixel-font/commit/7c9a696b1a21de1cbb53b663adc485e5cce86b2f)), closes [#41](https://github.com/SolidZORO/zpix-pixel-font/issues/41)
+
 ### [3.1.6](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.5...v3.1.6) (2021-04-19)
 
 
