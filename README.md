@@ -16,7 +16,7 @@
 
 ## Download
 
-- [Download Zpix.ttf (TureType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
+- [Download Zpix.ttf (TrueType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
 - [Download Zpix.bdf (BDF)](https://github.com/SolidZORO/zpix-pixel-font/releases)
 - [Download Zpix Legacy Version](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
 
