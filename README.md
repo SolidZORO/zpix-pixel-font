@@ -50,7 +50,7 @@ see [CHANGELOG](./CHANGELOG.md)
 
 ## 获取
 
-- [下载 Zpix.ttf (TureType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
+- [下载 Zpix.ttf (TrueType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
 - [下载 Zpix.bdf (BDF)](https://github.com/SolidZORO/zpix-pixel-font/releases)
 - [下载 Zpix Legacy 版本](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
 
