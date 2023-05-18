@@ -11,10 +11,14 @@
     "yarn": ">=1.15"
   },
   "scripts": {
+    "-------------------------------- VERSION ----": "----",
     "versionup": "standard-version -r patch",
     "versionup:minor": "standard-version -r minor",
     "versionup:major": "standard-version -r major",
-    "versionup:init": "standard-version -f"
+    "versionup:init": "standard-version -f",
+    "-------------------------------- PROD ----": "----",
+    "install-deps": "npm i -g ttf2woff2 && brew install fontforge",
+    "build": "sh ./tools/build.sh"
   },
   "dependencies": {},
   "devDependencies": {}

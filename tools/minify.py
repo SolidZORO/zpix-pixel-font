@@ -1,6 +1,9 @@
 #!/usr/bin/env fontforge
 # -*- mode: python; coding: utf-8 -*-
 
+# install fontforge for macOS
+# brew install fontforge
+
 from bdflib import reader
 from bdflib import writer
 import fontforge
