@@ -1,5 +1,7 @@
+// https://github.com/streamich/git-cz
+
 module.exports = {
-  disableEmoji: false,
+  disableEmoji: true,
   maxMessageLength: 64,
   minMessageLength: 3,
 };

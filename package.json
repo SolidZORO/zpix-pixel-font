@@ -10,6 +10,12 @@
     "npm": ">=6.4.0",
     "yarn": ">=1.15"
   },
+  "config": {
+    "commitizen": {
+      "INSTALL_TIPS": "npm i -g commitizen git-cz",
+      "path": "git-cz"
+    }
+  },
   "scripts": {
     "-------------------------------- VERSION ----": "----",
     "versionup": "standard-version -r patch",
