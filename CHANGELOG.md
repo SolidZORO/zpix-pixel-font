@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.9](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.8...v3.1.9) (2024-03-06)
+
+
+### Bug Fixes
+
+* “硒” (U+7852), “牺” (U+727A) ([e406074](https://github.com/SolidZORO/zpix-pixel-font/commit/e4060745ed983064d6c6bde685f76ea9385db04a)), closes [#59](https://github.com/SolidZORO/zpix-pixel-font/issues/59) [#62](https://github.com/SolidZORO/zpix-pixel-font/issues/62)
+
 ### [3.1.8](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.7...v3.1.8) (2023-05-18)
 
 
