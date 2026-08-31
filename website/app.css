@@ -1,11 +1,7 @@
 @font-face {
-  font-family: ZpixReviewLocal;
-  src: url(./zpix.woff2?v2021-03-21);
-}
-
-@font-face {
   font-family: ZpixReviewOnline;
-  src: url(https://zpix.now.sh/zpix.woff2?v2021-03-21);
+  src: url("https://zpix.vercel.app/zpix.woff2?v=3")
+  format("woff2");
 }
 
 .hide {
@@ -50,7 +46,7 @@
   color: #111;
   font-size: 24px;
   line-height: 1.6;
-  font-family: ZpixReviewLocal, ZpixReviewOnline, sans-serif;
+  font-family: ZpixReviewOnline, sans-serif;
   -webkit-font-smoothing: none;
   font-feature-settings: 'tnum';
 }
