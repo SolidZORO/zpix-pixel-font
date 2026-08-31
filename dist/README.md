@@ -2,9 +2,9 @@
 
 | File | Version | Description | Download |
 |------|---------|-------------|----------|
-| zpix.ttf | v3.1.19 | TrueType Font | [Download](https://github.com/SolidZORO/zpix-pixel-font/releases/latest/download/zpix.ttf) |
-| zpix.bdf | v3.1.19 | BDF Bitmap Font | [Download](https://github.com/SolidZORO/zpix-pixel-font/releases/latest/download/zpix.bdf) |
-| zpix.woff2 | v3.1.19 | WOFF2 Web Font | [Download](https://github.com/SolidZORO/zpix-pixel-font/releases/latest/download/zpix.woff2) |
+| zpix.ttf | v3.2.0 | TrueType Font | [Download](https://github.com/SolidZORO/zpix-pixel-font/releases/latest/download/zpix.ttf) |
+| zpix.bdf | v3.2.0 | BDF Bitmap Font | [Download](https://github.com/SolidZORO/zpix-pixel-font/releases/latest/download/zpix.bdf) |
+| zpix.woff2 | v3.2.0 | WOFF2 Web Font | [Download](https://github.com/SolidZORO/zpix-pixel-font/releases/latest/download/zpix.woff2) |
 
 ---
 
