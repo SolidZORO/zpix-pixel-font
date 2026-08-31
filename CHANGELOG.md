@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.11...v3.2.0) (2026-08-31)
+
+
+### Bug Fixes
+
+* ⒈ (U+2488) ﹒(U+FE52) ﹙(U+FE59) ﹛(U+FE5B) ([72a8dfe](https://github.com/SolidZORO/zpix-pixel-font/commit/72a8dfebf6fc9590a65e3e7f67d4fb2a325901b7))
+
 ### [3.1.11](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.10...v3.1.11) (2026-03-20)
 
 
