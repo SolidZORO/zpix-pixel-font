@@ -1,0 +1,74 @@
+name: Build and Deploy
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Java
+        uses: actions/setup-java@v5
+        with:
+          java-version: '11'
+          distribution: 'temurin'
+
+      - name: Install dependencies
+        run: |
+          npm install -g ttf2woff2
+          sudo apt-get update
+          sudo apt-get install -y fontforge python3-fontforge
+          pip install bdflib
+
+      - name: Build fonts
+        run: bash tools/build.sh
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: zpix-font
+          path: dist/
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Get Version
+        run: |
+          VERSION=$(node ./.github/workflows/ci-get-pkg-version.cjs)
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+
+      - name: Get Changelog
+        run: |
+          node ./.github/workflows/ci-get-changelog.cjs --tag=${{ env.VERSION }} > CHANGELOG-${{ env.VERSION }}.md
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v8
+        with:
+          name: zpix-font
+          path: dist/
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v3
+        with:
+          body_path: CHANGELOG-${{ env.VERSION }}.md
+          files: |
+            dist/zpix.bdf
+            dist/zpix.ttf
+            dist/zpix.woff2
