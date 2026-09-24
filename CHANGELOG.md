@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.2.0...v3.3.0) (2026-09-24)
+
+
+### Features
+
+* add 䰾 (U+4C3E) ([85e6e3d](https://github.com/SolidZORO/zpix-pixel-font/commit/85e6e3d0feab05559e1e0f294c7b668c0cb87dba))
+
+
+### Bug Fixes
+
+* fixed .versionrc.cjs gen version ([d97f76d](https://github.com/SolidZORO/zpix-pixel-font/commit/d97f76d6f4822557805fc71b7a95f0c8cf62d3ab))
+* 修复构建产物 OS/2 截断并升级 BitsNPicas 到 2.2.2 ([6474df8](https://github.com/SolidZORO/zpix-pixel-font/commit/6474df860030216a39f81c6b1dd4babdf0592d51))
+* 修正 BitsNPicas 错字形名 run-ci ([b295492](https://github.com/SolidZORO/zpix-pixel-font/commit/b29549250ca6f431362cecdfb3fb05c4b332ed43))
+
 ## [3.2.0](https://github.com/SolidZORO/zpix-pixel-font/compare/v3.1.11...v3.2.0) (2026-08-31)
 
 
