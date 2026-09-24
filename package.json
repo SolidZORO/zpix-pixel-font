@@ -12,8 +12,7 @@
   },
   "config": {
     "commitizen": {
-      "INSTALL_TIPS": "npm i -g commitizen git-cz",
-      "path": "git-cz"
+      "path": "node_modules/cz-git"
     }
   },
   "scripts": {

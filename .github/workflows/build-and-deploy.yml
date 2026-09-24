@@ -4,6 +4,10 @@ on:
   push:
     tags:
       - '*'
+    # Branch pushes only run the build when a commit message contains
+    # "run-ci" (checked in the build job's `if`); release still needs a tag.
+    branches:
+      - '**'
   # Manual run for validation only (no release: the release job below
   # requires a v* tag ref). Use the `note` input as a log marker.
   workflow_dispatch:
@@ -15,6 +19,13 @@ on:
 
 jobs:
   build:
+    # Runs on: tag pushes (release path), manual dispatch (validation),
+    # or branch pushes whose HEAD commit message contains "run-ci".
+    # The `|| ''` guards events without head_commit (tags, dispatch).
+    if: >
+      startsWith(github.ref, 'refs/tags/')
+      || github.event_name == 'workflow_dispatch'
+      || contains(github.event.head_commit.message || '', 'run-ci')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
