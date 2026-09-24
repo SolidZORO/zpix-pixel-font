@@ -2,6 +2,15 @@
 
 cd "$(dirname "$0")" || exit
 
+# Fail fast with a helpful hint when a required tool is missing.
+# (Without this, a missing tool silently leaves zero-byte outputs behind,
+# because shell redirection truncates the target file before the
+# command-not-found error happens.)
+command -v java >/dev/null 2>&1 || { echo "🚨 [build] ERROR: java not found ❌" >&2; exit 1; }
+command -v ttf2woff2 >/dev/null 2>&1 || { echo "🚨 [build] ERROR: ttf2woff2 not found ❌, run: npm i -g ttf2woff2 📦" >&2; exit 1; }
+command -v fontforge >/dev/null 2>&1 || { echo "🚨 [build] ERROR: fontforge not found ❌, run: brew install fontforge 🍺" >&2; exit 1; }
+command -v python3 >/dev/null 2>&1 || { echo "🚨 [build] ERROR: python3 not found ❌🐍" >&2; exit 1; }
+
 rm -f ./*.ttf
 java -jar ./bin/BitsNPicas-2.2.2.jar convertbitmap -f ttf -o ./zpix.ttf ../src/zpix.sfd
 
