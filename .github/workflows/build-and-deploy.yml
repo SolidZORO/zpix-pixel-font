@@ -49,7 +49,7 @@ jobs:
 
       - name: Validate OS/2 with fontTools
         run: |
-          echo "=== ZPIX validation marker: ${{ inputs.note }} ==="
+          echo "=== ZPIX validation marker: ${{ inputs.note || github.event.head_commit.message }} ==="
           ZPIX_TTF=dist/zpix.ttf python3 __tests__/test_os2_table_regression.py
 
       - name: Upload artifacts

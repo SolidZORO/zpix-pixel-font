@@ -11,6 +11,9 @@ java -jar ./bin/BitsNPicas-2.2.2.jar convertbitmap -f ttf -o ./zpix.ttf ../src/z
 cat < ./zpix.ttf | ttf2woff2 > ../dist/zpix.woff2
 
 ./minify.py
+# Rename glyphs misnamed by BitsNPicas (hyphen/mu/fraction/periodcentered/
+# Delta/Omega at the wrong codepoints), otherwise fontforge warns on open.
+python3 ./fix-glyph-names.py ./zpix.ttf || exit 1
 # Fix truncated OS/2 v5 header (fontforge writes 96 bytes but declares v5),
 # otherwise fontTools fails with "struct.error: unpack requires a buffer of 22 bytes".
 python3 ./fix-os2.py ./zpix.ttf || exit 1
