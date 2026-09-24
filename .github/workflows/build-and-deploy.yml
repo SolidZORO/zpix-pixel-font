@@ -26,7 +26,10 @@ jobs:
       startsWith(github.ref, 'refs/tags/')
       || github.event_name == 'workflow_dispatch'
       || contains(github.event.head_commit.message || '', 'run-ci')
-    runs-on: ubuntu-latest
+    # Pinned (not ubuntu-latest): system fontforge version affects the
+    # built font bytes (see OS/2 truncation history). Move off this
+    # deliberately with a manual validation build, not by surprise.
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -61,7 +64,7 @@ jobs:
   release:
     if: startsWith(github.ref, 'refs/tags/v')
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     steps:

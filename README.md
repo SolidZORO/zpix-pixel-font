@@ -11,16 +11,35 @@
 ## Font Info
 
 - Name: Zpix (最像素)
-- Size: 12px (11px + 1px padding)
-- Char Total: 21998 (English / Traditional Chinese / Simplified Chinese / Japanese)
+- Size: 12px (11px + 1px padding), use integer multiples (12px / 24px / 36px…) for the sharpest result
+- Char Total: 22237 (English / Traditional Chinese / Simplified Chinese / Japanese)
 
 ## Download
 
-- [Download Zpix.ttf (TrueType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
-- [Download Zpix.bdf (BDF)](https://github.com/SolidZORO/zpix-pixel-font/releases)
-- [Download Zpix Legacy Version](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
+Get the latest files from [Releases](https://github.com/SolidZORO/zpix-pixel-font/releases/latest):
 
-> If you have any questions you can write me a email. `solidzoro@live.com` .
+- `zpix.ttf` (TrueType, desktop use)
+- `zpix.woff2` (Webfont, web use)
+- `zpix.bdf` (BDF, embedded / legacy use)
+- [Zpix Legacy Version (v1.2.1)](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
+
+> If you have any questions you can write me an email: `solidzoro@live.com`.
+
+## Build from source
+
+Requirements: Java, fontforge, `ttf2woff2`, Python 3 with `bdflib` + `fonttools`.
+
+```bash
+bash tools/build.sh
+```
+
+This converts `src/zpix.sfd` via BitsNPicas (`tools/bin/`), re-generates it
+with fontforge (`tools/minify.py`), then repairs the OS/2 table and glyph
+names (`tools/fix-os2.py`, `tools/fix-glyph-names.py`). Validate the output with:
+
+```bash
+ZPIX_TTF=dist/zpix.ttf python3 __tests__/test_os2_table_regression.py
+```
 
 ## License and Pricing
 
@@ -31,32 +50,46 @@
 
 **My Paypal: `solidzoro@live.com`**
 
-> after paying for the font, I will give a license agreement. However, please do not issue an invoice, please understand.
+> Paying for the font grants you the corresponding license by default; contact me with your company and product names if you need a written license agreement.
 
 ## Change log
 
 see [CHANGELOG](./CHANGELOG.md)
 
 <br>
-<br>
-<br>
-<br>
 
 ## 字体资讯
 
 - 名称：Zpix (最像素)
-- 字号：12px （11px + 1px 间距）
-- 字数：21998 个 （英文＋繁体中文＋简体中文＋日文）
+- 字号：12px（11px + 1px 间距），请使用整数倍字号（12px / 24px / 36px…）以获得最清晰的效果
+- 字数：22237 个（英文＋繁体中文＋简体中文＋日文）
 
 ## 获取
 
-- [下载 Zpix.ttf (TrueType)](https://github.com/SolidZORO/zpix-pixel-font/releases)
-- [下载 Zpix.bdf (BDF)](https://github.com/SolidZORO/zpix-pixel-font/releases)
-- [下载 Zpix Legacy 版本](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
+从 [Releases](https://github.com/SolidZORO/zpix-pixel-font/releases/latest) 下载最新文件：
 
+- `zpix.ttf`（TrueType，桌面使用）
+- `zpix.woff2`（网页字体，Web 使用）
+- `zpix.bdf`（BDF，嵌入式 / 传统用途）
+- [Zpix Legacy 版本（v1.2.1）](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
 
+如有疑问可以联系 `solidzoro@live.com`
 
-如有疑问可以联系 `SolidZORO@live.com`
+## 从源码构建
+
+依赖：Java、fontforge、`ttf2woff2`，以及带 `bdflib` + `fonttools` 的 Python 3。
+
+```bash
+bash tools/build.sh
+```
+
+流程：`src/zpix.sfd` 经 BitsNPicas（`tools/bin/`）转换，再经 fontforge
+重新生成（`tools/minify.py`），最后修复 OS/2 表与字形名
+（`tools/fix-os2.py`、`tools/fix-glyph-names.py`）。校验产物：
+
+```bash
+ZPIX_TTF=dist/zpix.ttf python3 __tests__/test_os2_table_regression.py
+```
 
 ## 授权与价格
 
@@ -65,16 +98,13 @@ see [CHANGELOG](./CHANGELOG.md)
 - 用于 教育项目 - **`免费`**
 - 用于 个人项目 - **`免费`**
 
-**我的支付宝： `solidzoro@live.com`**
+**我的支付宝：`solidzoro@live.com`**
 
-> BTW：字体付费后，我会给一份授权协议。但无法开具发票，请谅解。
-
+> 字体付费后即默认取得相应授权；如需书面授权协议，请联系我并注明公司与商品名称。
 
 ## 更新日志
 
 查看 [CHANGELOG](./CHANGELOG.md)
-
-
 
 ## 版权声明
 
