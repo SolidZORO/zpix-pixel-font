@@ -4,6 +4,14 @@ on:
   push:
     tags:
       - '*'
+  # Manual run for validation only (no release: the release job below
+  # requires a v* tag ref). Use the `note` input as a log marker.
+  workflow_dispatch:
+    inputs:
+      note:
+        description: 'Marker note shown in the log (e.g. os2-fix-try1)'
+        required: false
+        default: 'manual-validation'
 
 jobs:
   build:
@@ -23,10 +31,15 @@ jobs:
           npm install -g ttf2woff2
           sudo apt-get update
           sudo apt-get install -y fontforge python3-fontforge
-          pip install bdflib
+          pip install bdflib fonttools
 
       - name: Build fonts
         run: bash tools/build.sh
+
+      - name: Validate OS/2 with fontTools
+        run: |
+          echo "=== ZPIX validation marker: ${{ inputs.note }} ==="
+          ZPIX_TTF=dist/zpix.ttf python3 __tests__/test_os2_table_regression.py
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v7

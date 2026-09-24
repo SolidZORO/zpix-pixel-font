@@ -1,0 +1,3 @@
+# Local-only test font fixtures, never commit.
+*
+!.gitignore
