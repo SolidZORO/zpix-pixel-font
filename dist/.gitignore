@@ -1,0 +1,4 @@
+# Local-only test font fixtures, never commit.
+*
+!.gitignore
+!README.md
