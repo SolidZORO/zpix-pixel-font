@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1602156653
-ModificationTime: 1774028829
+ModificationTime: 1790237016
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,12 +51,12 @@ DisplaySize: 12
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 180
-WinInfo: 9259 47 20
+WinInfo: 39704 56 17
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 9437184 0 436207 218103 145402 0 1048576 145402 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 22237
+BeginChars: 65536 22238
 
 StartChar: space
 Encoding: 32 32 0
@@ -155711,6 +155711,12 @@ Encoding: 9829 9829 22236
 Width: 1000
 LayerCount: 2
 EndChar
+
+StartChar: uni4C3E
+Encoding: 19518 19518 22237
+Width: 1000
+LayerCount: 2
+EndChar
 EndChars
 BitmapFont: 12 22238 10 2 1 FontForge
 BDFStartProperties: 35
@@ -200224,5 +200230,7 @@ BDFChar: 22235 9834 12 2 8 -2 8
 &/Z)o&eklgE8\M3
 BDFChar: 22236 9829 12 0 10 -2 8
 0n=Vds5<q8s5<q8J&":!*rlcN"98E%
+BDFChar: 22237 19518 13 0 10 -2 8
+6f<!XP+_ZEWhB7IWW;kq![+KcX5EsX
 EndBitmapFont
 EndSplineFont
