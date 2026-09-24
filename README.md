@@ -25,22 +25,6 @@ Get the latest files from [Releases](https://github.com/SolidZORO/zpix-pixel-fon
 
 > If you have any questions you can write me an email: `solidzoro@live.com`.
 
-## Build from source
-
-Requirements: Java, fontforge, `ttf2woff2`, Python 3 with `bdflib` + `fonttools`.
-
-```bash
-bash tools/build.sh
-```
-
-This converts `src/zpix.sfd` via BitsNPicas (`tools/bin/`), re-generates it
-with fontforge (`tools/minify.py`), then repairs the OS/2 table and glyph
-names (`tools/fix-os2.py`, `tools/fix-glyph-names.py`). Validate the output with:
-
-```bash
-ZPIX_TTF=dist/zpix.ttf python3 __tests__/test_os2_table_regression.py
-```
-
 ## License and Pricing
 
 - for Commercial/Business Product (Single Product) **`USD $1000`**
@@ -74,22 +58,6 @@ see [CHANGELOG](./CHANGELOG.md)
 - [Zpix Legacy 版本（v1.2.1）](https://github.com/SolidZORO/zpix-pixel-font/releases/tag/v1.2.1)
 
 如有疑问可以联系 `solidzoro@live.com`
-
-## 从源码构建
-
-依赖：Java、fontforge、`ttf2woff2`，以及带 `bdflib` + `fonttools` 的 Python 3。
-
-```bash
-bash tools/build.sh
-```
-
-流程：`src/zpix.sfd` 经 BitsNPicas（`tools/bin/`）转换，再经 fontforge
-重新生成（`tools/minify.py`），最后修复 OS/2 表与字形名
-（`tools/fix-os2.py`、`tools/fix-glyph-names.py`）。校验产物：
-
-```bash
-ZPIX_TTF=dist/zpix.ttf python3 __tests__/test_os2_table_regression.py
-```
 
 ## 授权与价格
 
